@@ -16,6 +16,8 @@ Before running each script, please check its arguments.
 
 </details>
 
+Preprocessing scripts for placeholder preprocessing, wikidata preprocessing and Seq2Seq preprocessing are in respective Jupyter notebooks.
+
 ## Training
 ### training/train_seq2seq.sh
 <details>
