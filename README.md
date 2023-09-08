@@ -59,3 +59,23 @@ For example, `python3 classification_scores.py /path/to/predictions.txt`
 |-x|Name of the method, will be used in the path of output model|
 |-r|ID of checkpoint to resume from, optional|
 </details>
+
+
+# Citation
+```
+@inproceedings{yermilov-etal-2023-privacy,
+    title = "Privacy- and Utility-Preserving {NLP} with Anonymized data: A case study of Pseudonymization",
+    author = "Yermilov, Oleksandr  and
+      Raheja, Vipul  and
+      Chernodub, Artem",
+    booktitle = "Proceedings of the 3rd Workshop on Trustworthy Natural Language Processing (TrustNLP 2023)",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.trustnlp-1.20",
+    doi = "10.18653/v1/2023.trustnlp-1.20",
+    pages = "232--241",
+    abstract = "This work investigates the effectiveness of different pseudonymization techniques, ranging from rule-based substitutions to using pre-trained Large Language Models (LLMs), on a variety of datasets and models used for two widely used NLP tasks: text classification and summarization. Our work provides crucial insights into the gaps between original and anonymized data (focusing on the pseudonymization technique) and model quality and fosters future research into higher-quality anonymization techniques better to balance the trade-offs between data protection and utility preservation. We make our code, pseudonymized datasets, and downstream models publicly available.",
+}
+```
