@@ -1,3 +1,7 @@
+Official implementation of the paper "Privacy- and Utility-Preserving NLP with Anonymized data: A case study of Pseudonymization"
+https://aclanthology.org/2023.trustnlp-1.20/
+
+
 # privacy-preserving-nlp
 Preprocessing folder contains scripts for pseudonymizing datasets. 
 Training folder contains scripts for training models on pseudonymized datasets.
