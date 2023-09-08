@@ -1,4 +1,5 @@
-Official implementation of the paper "Privacy- and Utility-Preserving NLP with Anonymized data: A case study of Pseudonymization"
+Official implementation of the paper "Privacy- and Utility-Preserving NLP with Anonymized data: A case study of Pseudonymization", accepted for publication at TrustNLP Workshop at ACL 2023. 
+
 https://aclanthology.org/2023.trustnlp-1.20/
 
 
